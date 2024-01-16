@@ -1,0 +1,15 @@
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr6\obj\Debug\net6.0\nmr6.csproj.AssemblyReference.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr6\obj\Debug\net6.0\nmr6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr6\obj\Debug\net6.0\nmr6.AssemblyInfoInputs.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr6\obj\Debug\net6.0\nmr6.AssemblyInfo.cs
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr6\obj\Debug\net6.0\nmr6.csproj.CoreCompileInputs.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr6\bin\Debug\net6.0\nmr6.exe
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr6\bin\Debug\net6.0\nmr6.deps.json
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr6\bin\Debug\net6.0\nmr6.runtimeconfig.json
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr6\bin\Debug\net6.0\nmr6.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr6\bin\Debug\net6.0\nmr6.pdb
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr6\obj\Debug\net6.0\nmr6.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr6\obj\Debug\net6.0\refint\nmr6.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr6\obj\Debug\net6.0\nmr6.pdb
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr6\obj\Debug\net6.0\nmr6.genruntimeconfig.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr6\obj\Debug\net6.0\ref\nmr6.dll
